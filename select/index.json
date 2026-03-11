@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "HoneyWorks 『東京ウインターセッション feat. 瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜(CV:神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生)』（feat. 望月蒼太 (CV:梶裕貴)、榎本夏樹 (CV:戸松遥)、瀬戸口優 (CV:神谷浩史)、合田美桜 (CV:豊崎愛生)）",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-11T10:38:12.576748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHiCO with HoneyWorks - Sekai wa Koi ni Ochiteiru",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_CHiCO_with_HoneyWorks_-_Sekai_wa_Koi_ni_Ochiteiru_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "可愛くてごめん feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
+      "artist": "HoneyWorks OFFICIAL",
+      "has_synced": true,
+      "path": "select/02_可愛くてごめん_feat._ちゅーたん(CV_早見沙織)_HoneyWorks_HoneyWorks_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツノルキモチ -M.edit-／CHiCO with HoneyWorks",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_ツノルキモチ_-M.edit-_CHiCO_with_HoneyWorks_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乙女どもよ。／CHiCO with HoneyWorks (feat. HoneyWorks)",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/04_乙女どもよ。_CHiCO_with_HoneyWorks_(feat._HoneyWorks)_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒロインは平均以下。 feat. 涼海ひより（CV：水瀬いのり）／HoneyWorks",
+      "artist": "HoneyWorks OFFICIAL",
+      "has_synced": true,
+      "path": "select/05_ヒロインは平均以下。_feat._涼海ひより(CV_水瀬いのり)_HoneyWorks_HoneyWorks_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今日もサクラ舞う暁に／CHiCO with HoneyWorks",
+      "artist": "Sony Music (Japan)",
+      "has_synced": true,
+      "path": "select/06_今日もサクラ舞う暁に_CHiCO_with_HoneyWorks_Sony_Music_(Japan).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FAKE STAR (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/07_FAKE_STAR_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TO FAMILY (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/08_TO_FAMILY_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLUE (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/09_BLUE_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BROTHER (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/10_BROTHER_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TASTE (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/11_TASTE_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TIME LINE (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/12_TIME_LINE_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alive (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/13_Alive_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOVE ANTHEM (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/14_LOVE_ANTHEM_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fansa (From \"HoneyWorks\") [Spanish Version]",
+      "artist": "MegaMat",
+      "has_synced": true,
+      "path": "select/15_Fansa_(From__HoneyWorks_)_[Spanish_Version]_MegaMat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている／CHiCO with HoneyWorks",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/16_世界は恋に落ちている_CHiCO_with_HoneyWorks_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "WELCOME SICKS (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida, MEGU / CV : Tetsuya Kakihara, DAI / CV : Toshiki Masuda & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/17_WELCOME_SICKS_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida,_MEGU___CV____Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dear LAYLA (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/18_Dear_LAYLA_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "東京ウインターセッション",
+      "artist": "HoneyWorks Feat. 瀬戸口優 (神谷浩史), 榎本夏樹 (戸松遥), 望月蒼太 (梶裕貴), 早坂あかり (阿澄佳奈), 芹沢春輝 (鈴村健一), 合田美桜 (豊崎愛生)",
+      "has_synced": true,
+      "path": "select/19_東京ウインターセッション_HoneyWorks_Feat._瀬戸口優_(神谷浩史),_榎本夏樹_(戸松遥),_望月蒼太_(梶裕貴),_早坂あかり_(阿澄佳奈),_芹沢春輝_(鈴村健一),.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "東京ウインターセッション",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/20_東京ウインターセッション_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "東京ウインターセッション (Inst)",
+      "artist": "HoneyWorks feat. 瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜",
+      "has_synced": true,
+      "path": "select/21_東京ウインターセッション_(Inst)_HoneyWorks_feat._瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "東京ウインターセッション feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/22_東京ウインターセッション_feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "東京ウインターセッション Inst( feat.瀬戸口優 & 榎本夏樹 & 望月蒼太 & 早坂あかり & 芹沢春輝 & 合田美桜)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/23_東京ウインターセッション_Inst(_feat.瀬戸口優_&_榎本夏樹_&_望月蒼太_&_早坂あかり_&_芹沢春輝_&_合田美桜)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "東京ウインターセッション",
+      "artist": "HoneyWorks, 瀬戸口優 (CV:神谷浩史), 榎本夏樹 (CV:戸松遥), 望月蒼太 (CV:梶裕貴), 早坂あかり (CV:阿澄佳奈), 芹沢春輝 (CV:鈴村健一), 合田美桜 (CV:豊崎愛生)",
+      "has_synced": true,
+      "path": "select/24_東京ウインターセッション_HoneyWorks,_瀬戸口優_(CV_神谷浩史),_榎本夏樹_(CV_戸松遥),_望月蒼太_(CV_梶裕貴),_早坂あかり_(CV_阿澄佳奈),_芹沢春輝_.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "東京ウインターセッション",
+      "artist": "HoneyWorks feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜(CV.神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生)",
+      "has_synced": true,
+      "path": "select/25_東京ウインターセッション_HoneyWorks_feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜(CV.神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "東京ウインターセッション (Instrumental)",
+      "artist": "HoneyWorks feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜(CV.神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生)",
+      "has_synced": true,
+      "path": "select/26_東京ウインターセッション_(Instrumental)_HoneyWorks_feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜(CV.神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京ウインターセッション",
+      "artist": "honeyworks",
+      "has_synced": false,
+      "path": "select/pl_01_東京ウインターセッション_honeyworks.txt"
+    }
+  ]
+}
